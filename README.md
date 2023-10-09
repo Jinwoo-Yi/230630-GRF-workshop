@@ -5,15 +5,15 @@ hosted by
 2023/06/30
 
 led by   
-**SNU Connectome Lab**    
-/
-**PhD. Jiook Cha**  
-Dept. Psychology  
-Seoul National University     
+**SNU Connectome Lab**      
 /  
-**BA. Jinwoo Yi**
-Dept. Brain & CogSci  
-Seoul National University  
+**PhD. Jiook Cha**    
+Dept. Psychology    
+Seoul National University       
+/    
+**BA. Jinwoo Yi**    
+Dept. Brain & CogSci    
+Seoul National University    
 
 ## Abstract
 Traditional causal inference methods focus on an average effect of a given factor or treatment on outcomes under the assumption of a constant causal effect in a given group. However, often important research questions arise from the individual differences of the causal or treatment effects. In many domains of science and modern data science , estimating this so-called heterogeneous treatment effects (or conditional average treatment effects) is key to data-driven decision making (e.g., treatment, intervention, or policy making) towards precision science. For example, identifying individuals with risk for suicides based on cognitive, behavioral, neural, genetic, environmental variables; recommending an effective treatment option for a patient based on the multi-modal data; predicting or stratifying an individual’s response to negative (e.g., traumatic) experiences. Fulfilling these tasks require more advanced analytics than mere mediation or moderation analysis.  
