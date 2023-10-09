@@ -1,15 +1,16 @@
-# Workshop for Generalized Random Forest (GRF)
+# Causal Machine Learning for Studying Individual Differences or Heterogeneous Treatment Effects
+
 hosted by  
 **Institute of Psychological Sciences, SNU**  
 2023/06/30
 
 led by   
-**SNU Connectome Lab**  
+**SNU Connectome Lab**    
 /
 **PhD. Jiook Cha**  
 Dept. Psychology  
-Seoul National University   
-
+Seoul National University     
+/  
 **BA. Jinwoo Yi**
 Dept. Brain & CogSci  
 Seoul National University  
